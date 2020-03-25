@@ -1,0 +1,3 @@
+browser position chr1:10524-10525
+track name=EPIC description="EPIC" visibility=2
+track type=bigBed name="EPIC hg19" description="Illumina EPIC array" bigDataUrl=https://github.com/angelcymak/public_data/raw/master/epic.hg19.bb
